@@ -1,4 +1,4 @@
-package com.senai;
+package com.leal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
